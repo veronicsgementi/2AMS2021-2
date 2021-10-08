@@ -37,7 +37,7 @@
         <br>
         
         <button type="submit" class="btn btn-danger">Calcular</button>
-        
+        <button type="submit" class="btn btn-danger">Limpar</button>
     </form>
 
     <?php
